@@ -11,7 +11,7 @@ This scripts are described in the paper, A Recurrent Deep Learning-based Monthly
 - A comparative analysis of actual and predicted deforestation events spanning a four-month interval, from June to September, in both 2022 and 2023 at Vista Alegre do Abuna is shown in <a href="https://github.com/aistairc/Reccurent_deep_learning_based_monthly_deforestation_prediction/blob/main/comparative_analysis.jpg?raw=true" target="_blank">comparative_analysis.jpg</a>.
 
 ### \<Scripts\>
-- main.py contains all processing steps.<br />
+- main.py contains all processing steps<br />
 
 ### \<Environments\>
 - checked OS: Windows 10 and Ubuntu 20.04
