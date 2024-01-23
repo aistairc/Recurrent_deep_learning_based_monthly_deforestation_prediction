@@ -7,4 +7,5 @@ This scripts are described in the paper, A Recurrent Deep Learning-based Monthly
   - __features__: the area where deforestation occurred and the binary of whether deforestation occurred or not<br />
   - __input sequence length__: 12 months<br />
   
-- 
+- The deforestation prediction performances of the recurrent deep learning-based models for $1\times1$ km meshes with 1-month resolution averaged over eight areas in Brazil Amazon are summarized in <a href="https://github.com/aistairc/Reccurent_deep_learning_based_monthly_deforestation_prediction/blob/main/model_performance.jpg?raw=true" target="_blank">model_performance.jpg</a>.
+- A comparative analysis of actual and predicted deforestation events spanning a four-month interval, from June to September, in both 2022 and 2023 at Vista Alegre do Abuna is shown in <a href="https://github.com/aistairc/Reccurent_deep_learning_based_monthly_deforestation_prediction/blob/main/comparative_analysis.jpg?raw=true" target="_blank">comparative_analysis.jpg</a>.
