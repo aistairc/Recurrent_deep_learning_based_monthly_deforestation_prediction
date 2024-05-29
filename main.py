@@ -96,7 +96,7 @@ else:
 ##############
 # evaluation #
 ##############
-if os.path.exists(result_dir+sl+"LSTM_preds.csv") and RETRAINING==False:
+if os.path.exists(result_dir+sl+"results.npz") and RETRAINING==False:
     print('-----------------')
     print('already evaluated')
     print('-----------------')
